@@ -1,0 +1,1 @@
+# OS_2_ShareMemoryWin32
